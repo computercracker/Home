@@ -35,13 +35,13 @@
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item active" onclick="loadCollabContent()">
-                        <img src="asset/activechallenge/devz1.jpg" class="img-fluid" alt="Developer 1">
+                        <img src="devz1.jpg" class="img-fluid" alt="Developer 1">
                     </div>
                     <div class="carousel-item" onclick="loadCollabContent()">
-                        <img src="asset/activechallenge/devz2.jpg" class="img-fluid" alt="Developer 2">
+                        <img src="devz2.jpg" class="img-fluid" alt="Developer 2">
                     </div>
                     <div class="carousel-item" onclick="loadCollabContent()">
-                        <img src="asset/activechallenge/devz4.jpg" class="img-fluid" alt="Developer 3">
+                        <img src="devz4.jpg" class="img-fluid" alt="Developer 3">
                     </div>
                 </div>
                 <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -82,7 +82,7 @@
             <div class="row">
                 <div class="col-md-3 mb-4">
                     <div class="card">
-                        <img src="asset/services/devc.jpg" class="card-img-top" alt="Developer Challenge">
+                        <img src="devc.jpg" class="card-img-top" alt="Developer Challenge">
                         <div class="card-body">
                             <h5 class="card-title">Developer Challenge</h5>
                             <p class="card-text">Join our Developer Challenge and compete with the best to showcase your skills and win amazing prizes!</p>
@@ -91,7 +91,7 @@
                 </div>
                 <div class="col-md-3 mb-4">
                     <div class="card">
-                        <img src="asset/services/cert.jpeg" class="card-img-top" alt="Certificate">
+                        <img src="cert.jpeg" class="card-img-top" alt="Certificate">
                         <div class="card-body">
                             <h5 class="card-title">Certificate Programs</h5>
                             <p class="card-text">Earn industry-recognized certificates that validate your expertise and boost your career prospects.</p>
@@ -100,7 +100,7 @@
                 </div>
                 <div class="col-md-3 mb-4">
                     <div class="card">
-                        <img src="asset/services/web.jpg" class="card-img-top" alt="Web Design">
+                        <img src="web.jpg" class="card-img-top" alt="Web Design">
                         <div class="card-body">
                             <h5 class="card-title">Web Design</h5>
                             <p class="card-text">Get stunning and responsive web designs tailored to your business needs by our expert designers.</p>
@@ -109,7 +109,7 @@
                 </div>
                 <div class="col-md-3 mb-4">
                     <div class="card">
-                        <img src="asset/services/pro.jpg" class="card-img-top" alt="Project Management">
+                        <img src="pro.jpg" class="card-img-top" alt="Project Management">
                         <div class="card-body">
                             <h5 class="card-title">Project Management</h5>
                             <p class="card-text">Ensure the success of your projects with our professional project management services.</p>
@@ -125,17 +125,17 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4 mb-4">
-                    <img src="asset/team/elias.jpg" class="img-fluid rounded-circle" alt="Team Member 1">
+                    <img src="elias.jpg" class="img-fluid rounded-circle" alt="Team Member 1">
                     <h5 class="mt-2">Elias DUKUZUMUREMYI</h5>
                     <p>Lead Developer</p>
                 </div>
                 <div class="col-md-4 mb-4">
-                    <img src="asset/team/elias.jpg" class="img-fluid rounded-circle" alt="Team Member 2">
+                    <img src="elias.jpg" class="img-fluid rounded-circle" alt="Team Member 2">
                     <h5 class="mt-2">Elias DUKUZUMUREMYI</h5>
                     <p>Project Manager</p>
                 </div>
                 <div class="col-md-4 mb-4">
-                    <img src="asset/team/elias.jpg" class="img-fluid rounded-circle" alt="Team Member 3">
+                    <img src="elias.jpg" class="img-fluid rounded-circle" alt="Team Member 3">
                     <h5 class="mt-2">Elias DUKUZUMUREMYI</h5>
                     <p>UI/UX Designer</p>
                 </div>
